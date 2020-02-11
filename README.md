@@ -1,3 +1,9 @@
-# Your blog
+# chekos.dev
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Este repositorio sirve como prueba de la facilidad que de utilizar la plantilla de <fast.ai> para blogs con markdown y jupyter notebooks. 
+
+Las instrucciones para crear un blog con `fast_template` y GitHub pages se encuentran aquí -> <https://www.fast.ai/2020/01/16/fast_template/>.
+
+Este blog - <chekos.dev> - existe como repositorio de ideas y experimentos mios que no caben en la filosofía de **tacosdedatos**. Para más todo eso existen [el sitio web](https://tacosdedatos.com/), [el podcast **tacosdedatos, el podcast**](https://anchor.fm/tacosdedatos), [el podcast **Quail data**](https://anchor.fm/quaildata) (y su sitio [tacosdedatos.fm](https://tacosdedatos.fm)), [el boletín](https://tacosdedatos.substack.com/), [el canal de youtube](https://youtube.com/tacosdedatos) y hasta ["la academia"](https://tacosdedatos.academy/). 
+
+Para todo lo demás - <chekos.dev>. 
