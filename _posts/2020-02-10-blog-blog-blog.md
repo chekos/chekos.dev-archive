@@ -1,4 +1,4 @@
-# blog blog blog 
+# Ya se fueron las nieves de enero 
 
 > Cuando todo va mal es cuando más me motivo / Respiro mejor en éste ambiente nocivo / Esto para el rap es lo más nutritivo / Es todo lo que soy por eso escribo.
 - Nocivos, Faruz Feet & Proof
