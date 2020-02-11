@@ -6,8 +6,7 @@
 1. TOC
 {:toc}
 
-## Porque 
-¿Por qué haría otro blog?
+## ¿Por qué haría otro blog?
 Si me sigues en las redes sociales tal vez conozcas de la comunidad [**tacosdedatos**](https://tacosdedatos.com/) que comencé a inicios del 2019. La idea de **tacosdedatos** es crear contenido en español. Contenido sobre el análisis y la visualización de datos. Contenido sobre mejores prácticas. Contenido sobre técnicas y tendencias en el mundo de la tecnología que parecen _quedarse_ en el mundo angloparlante por mucho tiempo antes de llegar al mundo hispanohablante. 
 
 **tacosdedatos** ha crecido mucho en este último año. Tenemos más de 3,400 seguidores en Twitter, miles de visitas al sitio web y lo más importante: muchas personas participando en la conversación del análisis / visualización de datos en español. Cada semana recibo por lo menos un mensaje directo en twitter o un correo con dudas de cómo comenzar en Python o R o como resolver X problema con su código o como crear X visualización. 
@@ -22,7 +21,7 @@ La segunda razón es que si yo escribiera todas estas ideas en tacosdedatos.com 
 
 Y la tercera razón es que yo promuevo mucho el que todxs tengamos un sitio/blog personal para mostrar el trabajo que hacemos. Ya seas una diseñadora, una programadora, una analista - todxs necesitamos un "portafolio" que podamos presentar lo que hacemos de una manera práctica y accesible. Este blog servirá como ejemplo. 
 
-## Como
+## Como lo hice
 La razón principal por la que decidí utilizar este método de publicación es la facilidad. Fast.ai creo un repositorio de GitHub que sirve como plantilla. Se encuentra [aquí](https://GitHub.com/fastai/fast_template/). 
 
 Puedes crear un repositorio apartir de el suyo que ya está listo para ser publicado en GitHub Pages de manera gratuita y fácil. Lo único que necesitas es una cuenta de GitHub y crear un repositorio llamado `<USUARIO>.github.io` dónde USUARIO es tu nombre de usuario utilizando este enlace: [https://GitHub.com/fastai/fast_template/generate/](https://GitHub.com/fastai/fast_template/generate/). Es decir, si creas una cuenta de GitHub con el usuario "papichulo" solo tienes que hacer clic en ese enlace y crear `papichulo.github.io` y ya. 
@@ -31,7 +30,7 @@ GitHub sabe que cuando creas un repositorio siguiendo esas convenciones es porqu
 
 Esto es esencial porque como les mencioné yo ya tengo muchos proyectos que debo mantener. Uno más, por más importante que sea, sería costaría mucho trabajo mantener. 
 
-Usando este método me tarde 3 minutos en crear este blog y para agregar contenido solo toma agregar archivos `.md` a la carpeta `_posts/`. 
+Usando este método me tardé 3 minutos en crear este blog y para agregar contenido solo toma agregar archivos `.md` a la carpeta `_posts/`. 
 
 De hecho, este post lo escribí en mi teléfono en camino a casa. Esa es la facilidad que necesito para tener **otro blog**. 
 
@@ -47,3 +46,17 @@ Necesitamos más de eso en español. Existe stack overflow y existen blogs en in
 En el anuncio de `fast_template` comparten la liga a un blog que la cofundadora de fast.ai [escribió sobre bloguear](https://link.medium.com/LXzO65xIY3). En él menciona, entre otras cosas, que la mejor persona para enseñarle a alguien que está un paso detrás cómo hacer algo eres tú. Es decir, si acabas de aprender cómo funcionan las `geom`s en `ggplot2` o como aplicar las etiquetas de los datos a un dataframe de `pandas` - tú eres la mejor persona para enseñarle cómo hacerlo a alguien que está justo queriendo aprender a hacer eso. Por eso, no importa tu nivel de experiencia, **tú deberías tener un blog**. 
 
 Te recomiendo `fast_template` cómo lo estoy haciendo yo aquí pero también existe Medium.com y hasta tacosdedatos.com. Lo importante es comenzar. 
+
+## conclusiones
+Todxs tenemos algo que decir. 
+
+Tal vez pienses que como principiante no hay razón por qué tener un blog - yo opino lo contrario. Necesitamos más contenido nivel principiante e intermedio en español. 
+
+Tal vez pienses que nadie lo va a leer. Te prometo que más personas de las que crees están esperando lo que vas a escribir. 
+
+Tal vez pienses es muy difícil. Si usas la plantilla `fast_template` estás a unos cuantos clics de tener tu blog - no necesitas saber Git no GitHub ni HTML ni javascript ni nada. 
+
+**Comienza tu blog.**
+
+Si necesitas ayuda mándame un mensaje por [twitter](https://twitter.com/tacosdedatos), [Instagram](https://Instagram.com/tacosdedatos), [Facebook](https://Facebook.com/tacosdedatos) o hasta un correo [📨](mailto:chekos@tacosdedatos.com). 
+
