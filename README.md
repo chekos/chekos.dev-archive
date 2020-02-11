@@ -1,6 +1,6 @@
 # chekos.dev
 
-Este repositorio sirve como prueba de la facilidad que de utilizar la plantilla de <fast.ai> para blogs con markdown y jupyter notebooks. 
+Este repositorio sirve como prueba de la facilidad que de utilizar la plantilla de [fast.ai](https://fast.ai)para blogs con markdown y jupyter notebooks. 
 
 Las instrucciones para crear un blog con `fast_template` y GitHub pages se encuentran aquí -> <https://www.fast.ai/2020/01/16/fast_template/>.
 
